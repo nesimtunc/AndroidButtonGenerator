@@ -1,0 +1,9 @@
+C:\Users\Nesim\Documents\Visual Studio 2010\Projects\AndroidButtonGenerator\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Nesim\Documents\Visual Studio 2010\Projects\AndroidButtonGenerator\obj\x86\Debug\AndroidButtonGenerator.Form1.resources
+C:\Users\Nesim\Documents\Visual Studio 2010\Projects\AndroidButtonGenerator\obj\x86\Debug\AndroidButtonGenerator.Properties.Resources.resources
+C:\Users\Nesim\Documents\Visual Studio 2010\Projects\AndroidButtonGenerator\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Nesim\Documents\Visual Studio 2010\Projects\AndroidButtonGenerator\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Nesim\Documents\Visual Studio 2010\Projects\AndroidButtonGenerator\bin\Debug\AndroidButtonGenerator.exe
+C:\Users\Nesim\Documents\Visual Studio 2010\Projects\AndroidButtonGenerator\bin\Debug\AndroidButtonGenerator.pdb
+C:\Users\Nesim\Documents\Visual Studio 2010\Projects\AndroidButtonGenerator\obj\x86\Debug\AndroidButtonGenerator.exe
+C:\Users\Nesim\Documents\Visual Studio 2010\Projects\AndroidButtonGenerator\obj\x86\Debug\AndroidButtonGenerator.pdb
