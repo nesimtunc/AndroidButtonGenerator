@@ -58,14 +58,14 @@ namespace AndroidButtonGenerator
 
 	  if (!string.IsNullOrEmpty(selectedButton.Solid))
 	  {
-		cbSolid.Checked = true;
+		rbSolid.Checked = true;
 		txtSolidColor.Text = selectedButton.Solid;
 	  }
 
 	  if (selectedButton.Gradient != null)
 	  {
 
-		cbGradient.Checked = true;
+		rbGradient.Checked = true;
 
 		Gradient gradient = selectedButton.Gradient;
 		if (!string.IsNullOrEmpty(gradient.Angle))
@@ -109,12 +109,12 @@ namespace AndroidButtonGenerator
 		selectedButton.Shape = cmbShape.SelectedItem.ToString();
 	  }
 
-	  if (cbSolid.Checked)
+	  if (rbSolid.Checked)
 	  {
 		selectedButton.Solid = txtSolidColor.Text;
 	  }
 
-	  if (cbGradient.Checked)
+	  if (rbGradient.Checked)
 	  {
 		selectedButton.Gradient = new Gradient
 		{
