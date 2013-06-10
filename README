@@ -1,8 +1,8 @@
-Android Button Generator is a tool for creating Android based multiple state buttons like pressed, selected situtations as files. 
+Android Button Generator is a tool for creating Android based multiple state buttons like pressed, selected situtations exporting as xml files. 
 
-It's first version and it's written in ~30 minutes for to help myself because of I got tired to creating buttons and each buttons require min 3 files and 1 more for selector file. 
+It's first version and it's been written in ~30 minutes for help myself because of I got tired of creating buttons and each buttons require min. 3 files and 1 more one for selector file. 
 
-I would to make a better tool maybe in the future.
+I would like to make a better tool. Maybe in the future.
 
 I hope it helps.
 
